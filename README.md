@@ -1,2 +1,3 @@
-# media_queue_frontend
-Front-end for Media Queue project
+# Media Queue Project Front-end
+
+Front-end Angular application for Media Queue project
